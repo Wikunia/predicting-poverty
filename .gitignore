@@ -1,0 +1,9 @@
+*.pyc
+*.caffemodel
+.vscode
+data/input/Daylights/
+data/output/Daylights/**/*.png
+data/output/Daylights/**/*.zip
+data/input/Nightlights
+data/input
+data/output/LSMS
